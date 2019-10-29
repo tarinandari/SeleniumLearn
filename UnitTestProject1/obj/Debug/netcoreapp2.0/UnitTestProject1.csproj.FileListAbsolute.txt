@@ -1,0 +1,14 @@
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb

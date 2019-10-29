@@ -1,0 +1,11 @@
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\bin\Debug\netcoreapp2.0\SetupEnv.deps.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\bin\Debug\netcoreapp2.0\SetupEnv.runtimeconfig.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\bin\Debug\netcoreapp2.0\SetupEnv.runtimeconfig.dev.json
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\bin\Debug\netcoreapp2.0\SetupEnv.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.csprojResolveAssemblyReference.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.csproj.CoreCompileInputs.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.AssemblyInfoInputs.cache
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.AssemblyInfo.cs
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\bin\Debug\netcoreapp2.0\SetupEnv.pdb
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.dll
+F:\training\Selenium\CD\NetCoreSelenium3\SetupEnv\SetupEnv\obj\Debug\netcoreapp2.0\SetupEnv.pdb
